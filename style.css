@@ -1,0 +1,36 @@
+
+        html {
+            font-family:"jost", sans-serif;
+            background-color: rgb(202, 202, 241);
+        }
+        h1 {
+            font-weight: bold;
+            font-size: 2rem;
+        }
+        li {
+            list-style: none;
+
+        }
+        li,
+        p {
+            font-family:"jost", sans-serif;
+            font-size: 1.4rem;
+            
+        }
+        section {
+            font-family:"jost", sans-serif;
+            font-size: 1.4rem;
+            
+        }
+        label {
+                font-family:jost, sans-serif ;
+                letter-spacing: 0.06;
+                line-height: 1.6;
+                font-size: 1.4rem;
+        }
+        progress{
+            height: 1.5rem;
+            width: 15rem;
+        }
+
+   
